@@ -8,3 +8,4 @@ Practicing Scala using the book "functional programming in scala"
 | :-------------: |:-------------|:-------------|:-------------|
 | 1 |[Fibonacci.scala](src/main/scala/org/fouda/ch2/Fibonacci.scala)|2|Pure function / tail recursion|
 | 2 |[FindFirst.scala](src/main/scala/org/fouda/ch2/FindFirst.scala)|2|Pure function / HOF with generics|
+| 3 |[IsSorted.scala](src/main/scala/org/fouda/ch2/IsSorted.scala)|2|Pure function / HOF with generics|
